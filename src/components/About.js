@@ -16,9 +16,13 @@ function About() {
                     </p>
                     {/* <br className="hidden lg:inline-block" /> */}
                     <p className="mb-8 leading-relaxed text-xl text-white">
-                        Passionate about technology trying to find my field of expertise. I define myself as a person who never wants to stop learning, outgoing, optimistic and friendly. I love challenges, that’s why I’m starting as an entrepreneur in my spare time.
-                        <br className="hidden lg:inline-block" />
-                        Being a demanding person is not easy, but I have learned to turn it into something positive.                
+                    I’m a software engineer from Polytechnic University of Catalonia with more than three years of experience in digital products. I’ve worked in Service Design, connecting user and business needs trough feasible digital experiences. 
+                    <br  />
+                    <br />
+                    <h4 className="font-bold">I am a digital experience enthusiast.</h4>
+                    <br className="hidden lg:inline-block" />
+                    <br className="hidden lg:inline-block" />
+                    Nowadays, I am based in Barcelona, but I am really keen on  taking challenging adventures abroad!                        <br className="hidden lg:inline-block" />
                     </p>
                     {/* <div className="flex justify-center">
                         <a
