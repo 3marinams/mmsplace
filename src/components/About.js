@@ -1,5 +1,6 @@
 import React from "react";
 import '../output.css';
+import geekMarina from '../assets/geekMarina.jpg';
 
 function About() {
     return (
@@ -36,7 +37,7 @@ function About() {
                     <img
                         className="object-cover object-center rounded"
                         alt="Marina's emojis"
-                        src="../assets/geekMarina.jpg"
+                        src={geekMarina}
                     />
                 </div>
             </div>

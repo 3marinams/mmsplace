@@ -10,7 +10,7 @@ function App() {
     <main className="bg-gray-900 body-font text-gray-400">
       {/* <NavBar /> */}
       <About />
-      {/* <Projects /> */}
+      <Projects />
       {/* <Skills /> */}
       {/* <Contact /> */}
     </main>
