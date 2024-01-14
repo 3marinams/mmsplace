@@ -1,10 +1,12 @@
+import homergif from './assets/homer.gif';
+
 export const projects = [
 {
     title: "iCare",
     subtitle: "#VUX #UserResearch #conversationalXperience",
     description:
     "Created an Apple voice assistant to seamlessly integrate personalized nutrition support through conversational AI across smart speakers, phones & wearables.",
-    image: "./assets/homer.gif",
+    image: homergif,
     link: "https://reactbootcamp.com",
 },
 {
@@ -12,7 +14,7 @@ export const projects = [
     subtitle: "#VUX #VUI #VisualDesign #conversationalCarXperience",
     description:
     "This research centers on enhancing in-car entertainment and bolstering safety perceptions by implementing a global voice system.",
-    image: "./project-2.gif",
+    image: homergif,
     link: "https://reedbarger.com",
 },
 {
@@ -20,7 +22,7 @@ export const projects = [
     subtitle: "#VUX #VUI #UserResearch #VisualDesign",
     description:
     "The primary goal of this study is to implement substantial enhancements in accessibility for a more seamless online ticket purchasing experience.",
-    image: "./project-3.gif",
+    image: homergif,
     link: "https://jsbootcamp.com",
 },
 {
