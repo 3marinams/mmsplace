@@ -13,6 +13,18 @@ export const skills = [
     {
         name:"hola4",
     },
+    {
+        name: "hola1",
+    },
+    {
+        name:"hola2",
+    },
+    {
+        name:"hola3",
+    },
+    {
+        name:"hola4",
+    },
 ];
 
 export const projects = [
