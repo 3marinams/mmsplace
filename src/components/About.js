@@ -11,7 +11,7 @@ function About() {
                         Marina Moreno Soriano
                         {/* <br className="hidden lg:inline-block text-xs" />¿Me encanta construir aplicaciones web.? */}
                     </h1>
-                    <p className="mb-8 leading-relaxed text-s">
+                    <p className="mb-8 leading-relaxed text-xs">
                     UX-UI Manager | Software engineer | VUX-VUI Designer | Visual Designer | Entrepreneur | User researcher expert | Frontend developer
                     </p>
                     {/* <br className="hidden lg:inline-block" /> */}
