@@ -22,8 +22,10 @@ function About() {
                     <h4 className="font-bold">I am a digital experience enthusiast.</h4>
                     <br className="hidden lg:inline-block" />
                     <br className="hidden lg:inline-block" />
-                    Nowadays, I am based in Barcelona, but I am really keen on  taking challenging adventures abroad!                        <br className="hidden lg:inline-block" />
+                    Nowadays, I am based in Barcelona, but I am really keen on  taking challenging adventures abroad!                       
+                    <br className="hidden lg:inline-block" />
                     </p>
+                    
                     {/* <div className="flex justify-center">
                         <a
                         href="#contact"
