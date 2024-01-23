@@ -1,4 +1,4 @@
-import homergif from './assets/homer.gif';
+import projectPhoto from './assets/roses.jpg';
 
 export const skills = [
     {
@@ -33,7 +33,7 @@ export const projects = [
         subtitle: "#VUX #UserResearch #conversationalXperience",
         description:
         "Created an Apple voice assistant to seamlessly integrate personalized nutrition support through conversational AI across smart speakers, phones & wearables.",
-        image: homergif,
+        image: projectPhoto,
         link: "https://reactbootcamp.com",
     },
     {
@@ -41,7 +41,7 @@ export const projects = [
         subtitle: "#VUX #VUI #VisualDesign #conversationalCarXperience",
         description:
         "This research centers on enhancing in-car entertainment and bolstering safety perceptions by implementing a global voice system.",
-        image: homergif,
+        image: projectPhoto,
         link: "https://reedbarger.com",
     },
     {
@@ -49,7 +49,7 @@ export const projects = [
         subtitle: "#VUX #VUI #UserResearch #VisualDesign",
         description:
         "The primary goal of this study is to implement substantial enhancements in accessibility for a more seamless online ticket purchasing experience.",
-        image: homergif,
+        image: projectPhoto,
         link: "https://jsbootcamp.com",
     },
     {
@@ -57,7 +57,7 @@ export const projects = [
         subtitle: "React Hooks",
         description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-        image: "./project-4.gif",
+        image: projectPhoto,
         link: "https://pythonbootcamp.com",
     },
 ];
