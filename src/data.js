@@ -2,28 +2,13 @@ import projectPhoto from './assets/roses.jpg';
 
 export const skills = [
     {
-        name: "hola1",
+        name: "Programming lenguages",
     },
     {
-        name:"hola2",
+        name:"Information architecture",
     },
     {
-        name:"hola3",
-    },
-    {
-        name:"hola4",
-    },
-    {
-        name: "hola1",
-    },
-    {
-        name:"hola2",
-    },
-    {
-        name:"hola3",
-    },
-    {
-        name:"hola4",
+        name:"Problem-solving ",
     },
 ];
 
