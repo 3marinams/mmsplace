@@ -10,8 +10,8 @@ function App() {
     <main className="bg-white body-font text-gray-900">
       <NavBar />
       <About />
-      <Projects />
       <Skills />
+      <Projects />
       <Contact />
     </main>
   );
